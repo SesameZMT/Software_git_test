@@ -1,6 +1,7 @@
 # 海洋牧场智慧可视化系统
 
 2024 NKU 软件工程课程项目。
+项目管理测试
 
 使用 React + TypeScript + Flask + MySQL 实现的海洋牧场智慧可视化系统。
 
