@@ -9,7 +9,6 @@ import os
 import pandas as pd
 from werkzeug.datastructures import FileStorage
 from math import isnan
-# test
 
 app = Flask(__name__)
 CORS(app)
